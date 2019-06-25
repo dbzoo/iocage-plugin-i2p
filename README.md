@@ -9,4 +9,5 @@ iocage fetch -P -n i2p.json vnet=on ip4_addr="vnet0|192.168.1.14/24" defaultrout
 ```
 
 # Transparent I2P tunnel
+How to build a I2P jail with FreeNAS and have your browser transparently tunnel .i2p domains through the I2P router.
   * http://dbzoo.com/blog/transparent_i2p_tunneling
